@@ -1,0 +1,3 @@
+[build]
+    functions = 'dist/'
+    Command = 'npm run build'

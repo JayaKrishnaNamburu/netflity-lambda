@@ -1,0 +1,25 @@
+{
+  "name": "netflity-lambda",
+  "version": "0.0.0",
+  "description": "A test repository for deploying serverless functions using netlify",
+  "main": "index.js",
+  "scripts": {
+    "build": "netlify-lambda build functions",
+    "serve": "netlify-lambda serve functions",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayaKrishnaNamburu/netflity-lambda.git"
+  },
+  "author": "JK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayaKrishnaNamburu/netflity-lambda/issues"
+  },
+  "homepage": "https://github.com/JayaKrishnaNamburu/netflity-lambda#readme",
+  "dependencies": {
+    "mongoose": "^5.5.12",
+    "netlify-lambda": "^1.4.13"
+  }
+}

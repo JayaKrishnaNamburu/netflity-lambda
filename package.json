@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/JayaKrishnaNamburu/netflity-lambda#readme",
   "dependencies": {
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "netlify-lambda": "^1.4.13"
   }
 }
